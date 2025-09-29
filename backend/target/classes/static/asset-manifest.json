@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f2aea66.css",
+    "main.js": "/static/js/main.37b0ba1b.js",
+    "static/media/techconferance.jpeg": "/static/media/techconferance.b399165a8302f33e9d8c.jpeg",
+    "static/media/comedynight.jpg": "/static/media/comedynight.99b6a188bcdca8214c34.jpg",
+    "static/media/artexhibition.jpg": "/static/media/artexhibition.dd83e929edca60e362ca.jpg",
+    "static/media/foodfestival.jpg": "/static/media/foodfestival.fe97095973ba1c3a80e5.jpg",
+    "static/media/RockConcert.jpg": "/static/media/RockConcert.3f9787079f54c4d1e703.jpg",
+    "index.html": "/index.html",
+    "main.1f2aea66.css.map": "/static/css/main.1f2aea66.css.map",
+    "main.37b0ba1b.js.map": "/static/js/main.37b0ba1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f2aea66.css",
+    "static/js/main.37b0ba1b.js"
+  ]
+}
