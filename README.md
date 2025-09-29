@@ -75,6 +75,6 @@ cd backend
 
 2. Update `application.properties` with your database credentials:
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/event_connect
+spring.datasource.url=jdbc:mysql://localhost:3300/event_connect
 spring.datasource.username=your_username
 spring.datasource.password=your_password
